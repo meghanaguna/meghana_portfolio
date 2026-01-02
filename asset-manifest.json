@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.47d6ab1a.css",
+    "main.js": "/portfolio/static/js/main.9fadc621.js",
+    "static/js/453.15a626a8.chunk.js": "/portfolio/static/js/453.15a626a8.chunk.js",
+    "static/media/meghana_profile_banner.png": "/portfolio/static/media/meghana_profile_banner.e7eebba402f1af6c8581.png",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.25dbac8d811287b879b0.jpg",
+    "static/media/experience.jpg": "/portfolio/static/media/experience.43029a48ce696c839061.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.47d6ab1a.css.map": "/portfolio/static/css/main.47d6ab1a.css.map",
+    "main.9fadc621.js.map": "/portfolio/static/js/main.9fadc621.js.map",
+    "453.15a626a8.chunk.js.map": "/portfolio/static/js/453.15a626a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47d6ab1a.css",
+    "static/js/main.9fadc621.js"
+  ]
+}
