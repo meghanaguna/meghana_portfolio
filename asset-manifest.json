@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Meghana-Guna-Portfoilio/static/css/main.1305af8b.css",
-    "main.js": "/Meghana-Guna-Portfoilio/static/js/main.8a7b25a0.js",
-    "static/js/453.15a626a8.chunk.js": "/Meghana-Guna-Portfoilio/static/js/453.15a626a8.chunk.js",
-    "static/media/meghana_profile_banner.png": "/Meghana-Guna-Portfoilio/static/media/meghana_profile_banner.e7eebba402f1af6c8581.png",
-    "static/media/profile.jpg": "/Meghana-Guna-Portfoilio/static/media/profile.25dbac8d811287b879b0.jpg",
-    "static/media/experience.jpg": "/Meghana-Guna-Portfoilio/static/media/experience.43029a48ce696c839061.jpg",
-    "index.html": "/Meghana-Guna-Portfoilio/index.html",
-    "main.1305af8b.css.map": "/Meghana-Guna-Portfoilio/static/css/main.1305af8b.css.map",
-    "main.8a7b25a0.js.map": "/Meghana-Guna-Portfoilio/static/js/main.8a7b25a0.js.map",
-    "453.15a626a8.chunk.js.map": "/Meghana-Guna-Portfoilio/static/js/453.15a626a8.chunk.js.map"
+    "main.css": "/meghana_portfolio/static/css/main.6cc39ef4.css",
+    "main.js": "/meghana_portfolio/static/js/main.70884adc.js",
+    "static/js/453.15a626a8.chunk.js": "/meghana_portfolio/static/js/453.15a626a8.chunk.js",
+    "static/media/meghana_profile_banner.png": "/meghana_portfolio/static/media/meghana_profile_banner.e7eebba402f1af6c8581.png",
+    "static/media/profile.jpg": "/meghana_portfolio/static/media/profile.25dbac8d811287b879b0.jpg",
+    "static/media/experience.jpg": "/meghana_portfolio/static/media/experience.43029a48ce696c839061.jpg",
+    "index.html": "/meghana_portfolio/index.html",
+    "main.6cc39ef4.css.map": "/meghana_portfolio/static/css/main.6cc39ef4.css.map",
+    "main.70884adc.js.map": "/meghana_portfolio/static/js/main.70884adc.js.map",
+    "453.15a626a8.chunk.js.map": "/meghana_portfolio/static/js/453.15a626a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1305af8b.css",
-    "static/js/main.8a7b25a0.js"
+    "static/css/main.6cc39ef4.css",
+    "static/js/main.70884adc.js"
   ]
 }
