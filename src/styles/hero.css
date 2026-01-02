@@ -1,0 +1,85 @@
+.hero {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items:center;
+  padding: 80px 10%;
+  /* align-items: center; */
+  /* justify-content: space-between; */
+  /* padding: 80px 10%; */
+  background-image: url("../assets/meghana_profile_banner.png");
+  background-size: cover;
+  /* background: linear-gradient(135deg, #f8f9fa, #eef2ff); */
+  min-height: 90vh;
+}
+
+.hero-content {
+  max-width: 550px;
+}
+
+.hero-content h1 {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+.hero-content h1 span {
+  color: #007bff;
+}
+
+.hero-content h3 {
+  font-size: 22px;
+  color: #555;
+  margin-bottom: 15px;
+}
+
+.hero-content p {
+  font-size: 16px;
+  color: #666;
+  line-height: 1.6;
+}
+
+.hero-buttons {
+  margin-top: 100px;
+}
+
+.btn {
+  padding: 12px 22px;
+  border-radius: 6px;
+  text-decoration: none;
+  margin-right: 15px;
+  font-weight: 500;
+}
+
+.btn.primary {
+  background: #007bff;
+  color: white;
+}
+
+.btn.outline {
+  border: 2px solid #007bff;
+  color: #007bff;
+}
+
+.hero-image img {
+  width: 320px;
+  height: 320px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 6px solid white;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .hero {
+    flex-direction: column-reverse;
+    text-align: center;
+    padding: 60px 20px;
+  }
+
+  .hero-image img {
+    width: 240px;
+    height: 240px;
+    margin-bottom: 30px;
+  }
+}
