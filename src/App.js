@@ -7,7 +7,6 @@ import Hero from './components/Hero';
 import Footer from './components/Footer';
 import Experience from './components/Experience';
 import Education from './components/Education';
-import "./styles/main.css"
 import './App.css';
 
 function App() {
