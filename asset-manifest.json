@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/meghana_portfolio/static/css/main.b4b0e6fd.css",
-    "main.js": "/meghana_portfolio/static/js/main.70884adc.js",
+    "main.css": "/meghana_portfolio/static/css/main.28865331.css",
+    "main.js": "/meghana_portfolio/static/js/main.f70985d1.js",
     "static/js/453.15a626a8.chunk.js": "/meghana_portfolio/static/js/453.15a626a8.chunk.js",
-    "static/media/meghana_profile_banner.png": "/meghana_portfolio/static/media/meghana_profile_banner.e7eebba402f1af6c8581.png",
     "static/media/profile.jpg": "/meghana_portfolio/static/media/profile.25dbac8d811287b879b0.jpg",
     "static/media/experience.jpg": "/meghana_portfolio/static/media/experience.43029a48ce696c839061.jpg",
     "index.html": "/meghana_portfolio/index.html",
-    "main.b4b0e6fd.css.map": "/meghana_portfolio/static/css/main.b4b0e6fd.css.map",
-    "main.70884adc.js.map": "/meghana_portfolio/static/js/main.70884adc.js.map",
+    "main.28865331.css.map": "/meghana_portfolio/static/css/main.28865331.css.map",
+    "main.f70985d1.js.map": "/meghana_portfolio/static/js/main.f70985d1.js.map",
     "453.15a626a8.chunk.js.map": "/meghana_portfolio/static/js/453.15a626a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4b0e6fd.css",
-    "static/js/main.70884adc.js"
+    "static/css/main.28865331.css",
+    "static/js/main.f70985d1.js"
   ]
 }
